@@ -10,6 +10,8 @@ Projeto desenvolvido durante a Pré-Admissão para o bootcamp da Laboratória
 
 ## Github Pages
 
+https://kellyalves87.github.io/trivia/
+
 ## Autor
 
 Kelly Alves
